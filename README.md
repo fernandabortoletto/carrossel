@@ -3,7 +3,7 @@
 <p align="center"> Projeto de Carrossel Interativo desenvolvido com HTML e CSS e JavaScript básico, baseado em um vídeo do canal DevClub no Youtube. </p>
 
 <p align="center">
-    <img alt="Carrossel Page" src="preview.jpg" width="100%">
+    <img alt="Carrossel Page" src="preview.png" width="100%">
 </p>
 
 ## ✨ Funcionalidades
@@ -34,4 +34,5 @@ Este projeto foi construido acompanhando uma videoaula do DevClub, e me ajudou a
 ---
 
 Feito por Fernanda Bortoletto
+
 
